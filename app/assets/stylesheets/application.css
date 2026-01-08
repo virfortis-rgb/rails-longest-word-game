@@ -8,3 +8,8 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+h1 {
+  margin: 5rem;
+  text-align: center;
+}
